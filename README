@@ -12,3 +12,8 @@ Add GlitchEffect script to camera.
 Add GlitchShader to GlitchEffect.
 Add a random vector texture to GlitchEffect.
 Change intensity values to control glitch.
+.
+电视信号受到干扰，产生画面抖动、色彩漂移等现象，这种电子设备成像故障产生的效果，被应用在赛博朋克等科幻类型的影视游戏作品中。逐渐成为一种特有的风格艺术：故障艺术（Glitch Art）。育碧在其3A大作《看门狗》系列中，频繁的采用了这种表现手法。日本知名Unity大师Keijiro的开源库项目KinoGlitch模拟了这一风格。
+
+
+https://www.jianshu.com/p/e0bf06ff6771
